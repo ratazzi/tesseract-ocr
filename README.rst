@@ -24,7 +24,7 @@ Python dependencies
 
 On Ubuntu or Debian Linux::
 
-    $ sudo apt-get install libtesseract
+    $ sudo apt-get install tesseract-ocr libtesseract-dev libleptonica-dev
 
 On Mac OS X::
 
