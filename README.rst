@@ -3,6 +3,10 @@ Tesseract-OCR
 
 A Python wrapper for Tesseract
 
+.. image:: https://travis-ci.org/ratazzi/tesseract-ocr.svg?branch=master
+   :target: https://travis-ci.org/ratazzi/tesseract-ocr
+   :alt: Travis CI Status
+
 Installation
 ------------
 
